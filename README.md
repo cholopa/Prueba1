@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 🛻 App de prueba
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+Esta es una app de prueba
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prueba_2.streamlit.app/)
 
 ## GitHub Codespaces
 
